@@ -2,7 +2,7 @@
 - 👀 I’m interested in Genetics and Evolution, Computer science, Astrobiology, Philosophy and literature 
 - 🌱 I’m currently learning Artificial intelligence 
 - 💞️ I’m looking to collaborate on ... Generative Ai, AI prediction models for Evolution, Ai models for Predicting extraterrestrial life, Specialised LLM for generating Poetry.
-- 📫 How to reach me ... @t.me/ThekhanTalha
+- 📫 How to reach me ... t.me/ThekhanTalha
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ...all fun facts are not funny.
 
